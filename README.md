@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner, red -> blue -> gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D24,50:1E3A8A,100:FFD700&height=220&section=header&text=mkhaleelme&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Code%20Hero%20%7C%20Full%20Stack%20Avenger&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D24,50:1E3A8A,100:FFD700&height=220&section=header&text=mkhaleelme&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Cybersecurity%20Specialist%20%7C%20Digital%20Defender&descAlignY=62&descSize=20" width="100%"/>
 
 <!-- Animated typing intro -->
 <a href="#">
@@ -23,6 +23,20 @@
 
 </div>
 
+<!-- ⚡ Animated lightning strip — upload lightning.svg to an /assets folder in this repo -->
+<div align="center">
+<img src="./assets/lightning.svg" width="100%"/>
+</div>
+
+---
+
+### 🕸️ Cybersecurity Specialist
+
+<!-- Spiderweb banner — upload spiderweb-banner.svg to the same /assets folder -->
+<div align="center">
+<img src="./assets/spiderweb-banner.svg" width="100%"/>
+</div>
+
 ---
 
 ### 💥 About This Hero
@@ -32,14 +46,19 @@
 - ⚡ Superpower: turning coffee into commits
 - 🎯 Mission: ship clean, reliable, well-tested code
 - 🤝 Open to collaborating on interesting projects
-- 📫 Reach me: your-email@example.com
-
+- 📫 Reach me:mkhaleel0741@gmail.com
 ---
 
 ### 🛡️ Arsenal / Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,aws,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,aws,azure,wireshark,kali&theme=dark" />
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Penetration%20Testing-ED1D24?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network%20Security-1E3A8A?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat%20Analysis-FFD700?style=for-the-badge&logo=owasp&logoColor=black"/>
 </div>
 
 ---
@@ -54,6 +73,23 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkhaleelme&hide_border=true&background=0D1117&ring=ED1D24&fire=FFD700&currStreakLabel=FFD700" width="60%"/>
 </div>
+
+---
+
+### 💥 Featured Projects
+
+<!-- GitHub can't play sound on click — this spark burst is the visual stand-in for that "repulsor" feel -->
+<table align="center">
+<tr>
+<td align="center" width="300">
+<a href="https://github.com/mkhaleelme/REPLACE-WITH-REPO-NAME">
+<img src="./assets/spark-burst.svg" width="60"/><br/>
+<b>Project Name Here</b><br/>
+<sub>One-line description of what it does</sub>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
