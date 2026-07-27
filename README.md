@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mkhaleelme/mkhaleelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated wave banner, red -> blue -> gold -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1D24,50:1E3A8A,100:FFD700&height=220&section=header&text=mkhaleelme&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Code%20Hero%20%7C%20Full%20Stack%20Avenger&descAlignY=62&descSize=20" width="100%"/>
 
-Here are some ideas to get you started:
+<!-- Animated typing intro -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&duration=3000&pause=800&color=ED1D24&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Assembling+clean+code...;%E2%9A%A1+Turning+bugs+into+features;%F0%9F%92%A5+With+great+code+comes+great+responsibility" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Social badges, red/blue/gold -->
+<a href="https://github.com/mkhaleelme">
+  <img src="https://img.shields.io/badge/GitHub-ED1D24?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=todoist&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+### 💥 About This Hero
+
+- 🔭 Always working on something new
+- 🌱 Constantly learning and leveling up my skills
+- ⚡ Superpower: turning coffee into commits
+- 🎯 Mission: ship clean, reliable, well-tested code
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach me: your-email@example.com
+
+---
+
+### 🛡️ Arsenal / Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,aws,mongodb&theme=dark" />
+</div>
+
+---
+
+### ⚡ Battle Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mkhaleelme&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=ED1D24&text_color=FFFFFF&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhaleelme&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="40%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkhaleelme&hide_border=true&background=0D1117&ring=ED1D24&fire=FFD700&currStreakLabel=FFD700" width="60%"/>
+</div>
+
+---
+
+### 📊 Mission Log (Activity Graph)
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkhaleelme&bg_color=0D1117&color=FFD700&line=ED1D24&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E3A8A,100:ED1D24&height=120&section=footer" width="100%"/>
+
+**"With great commits comes great deployments."** 💥
+
+![Profile Views](https://komarev.com/ghpvc/?username=mkhaleelme&color=ED1D24&style=for-the-badge&label=HEROES+WHO+VIEWED+THIS+PROFILE)
+
+</div>
