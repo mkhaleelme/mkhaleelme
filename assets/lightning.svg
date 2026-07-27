@@ -1,0 +1,39 @@
+<svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="boltGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#ED1D24"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="160" fill="#0D1117"/>
+
+  <g filter="url(#glow)">
+    <polygon points="150,10 100,80 135,80 90,150 170,60 130,60"
+             fill="url(#boltGrad)">
+      <animate attributeName="opacity" values="1;0.15;1;0.5;1" dur="1.4s" repeatCount="indefinite"/>
+    </polygon>
+
+    <polygon points="400,5 340,85 380,85 320,155 415,65 370,65"
+             fill="url(#boltGrad)">
+      <animate attributeName="opacity" values="0.4;1;0.2;1;0.6" dur="1.1s" repeatCount="indefinite"/>
+    </polygon>
+
+    <polygon points="650,10 600,80 635,80 590,150 670,60 630,60"
+             fill="url(#boltGrad)">
+      <animate attributeName="opacity" values="1;0.3;1;0.15;1" dur="1.7s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <text x="400" y="140" text-anchor="middle" font-family="Orbitron, sans-serif"
+        font-size="22" fill="#FFD700" font-weight="bold">
+    ⚡ STRIKING CODE LIKE THUNDER ⚡
+  </text>
+</svg>
