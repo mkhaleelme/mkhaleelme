@@ -1,0 +1,40 @@
+<svg width="100%" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="260" fill="url(#bg)"/>
+
+  <g stroke="#C9D6E3" stroke-width="1" opacity="0.55">
+    <!-- radial threads -->
+    <line x1="400" y1="130" x2="400" y2="0"/>
+    <line x1="400" y1="130" x2="400" y2="260"/>
+    <line x1="400" y1="130" x2="80" y2="130"/>
+    <line x1="400" y1="130" x2="720" y2="130"/>
+    <line x1="400" y1="130" x2="150" y2="10"/>
+    <line x1="400" y1="130" x2="650" y2="10"/>
+    <line x1="400" y1="130" x2="150" y2="250"/>
+    <line x1="400" y1="130" x2="650" y2="250"/>
+
+    <!-- concentric web rings -->
+    <polygon points="400,50 550,90 590,130 550,170 400,210 250,170 210,130 250,90" fill="none"/>
+    <polygon points="400,90 500,110 525,130 500,150 400,170 300,150 275,130 300,110" fill="none"/>
+    <polygon points="400,110 460,120 470,130 460,140 400,150 340,140 330,130 340,120" fill="none"/>
+  </g>
+
+  <g opacity="0.8">
+    <animate xlink:href="#shimmer" attributeName="opacity" values="0.5;0.9;0.5" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="400" y="122" text-anchor="middle" font-family="Orbitron, sans-serif"
+        font-size="30" fill="#FFD700" font-weight="bold">
+    🕸️ CYBERSECURITY SPECIALIST 🕸️
+  </text>
+  <text x="400" y="150" text-anchor="middle" font-family="Orbitron, sans-serif"
+        font-size="15" fill="#ED1D24">
+    guarding the web, one line of defense at a time
+  </text>
+</svg>
